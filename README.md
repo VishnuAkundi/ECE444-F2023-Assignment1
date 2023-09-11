@@ -1,1 +1,2 @@
-![My Image](Activity.png "Activity 1")
+## Activity 1
+![My Image](Activity1.png "Activity 1")
